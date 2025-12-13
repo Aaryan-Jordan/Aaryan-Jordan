@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaryan Jordan</h1>
-<h3 align="center">A passionate SOC analyst from India</h3>
+<h3 align="center">A passionate Cybersecurity Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryan-jordan&label=Profile%20views&color=0e75b6&style=flat" alt="aaryan-jordan" /> </p>
 
